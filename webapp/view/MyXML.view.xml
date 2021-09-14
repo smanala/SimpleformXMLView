@@ -11,6 +11,8 @@
                 <Input id="idEmpSal" width="180px"/>
                 <Label text="Currency" />
                 <Input id="idEmpCurr" width="120px"/>
+                <Label text="Designation" />
+                <Input id="idEmpDesg" width="120px"/>
             </f:content>
         </f:SimpleForm>
         
